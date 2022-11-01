@@ -1,0 +1,65 @@
+body {
+  background-color:Beige;
+  font-family:"Helvetica", sans-serif;
+  color:green;
+}
+
+n{color:maroon;}
+
+h1{color:Red;
+font-family:"Times New Romance",serif;
+  margin-right:0px;
+  margin-left:135px;
+}
+
+h3{color:LightSkyBlue;
+font-family:"times new romans",serif;}
+
+h2{color:purple;
+font-family:"times new romans",serif;}
+nav ul {
+    background-color:white;
+    border-style: solid;
+  border-color: MediumVioletRed;
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 100px;
+}
+nav ul li a {
+    text-decoration: none;
+    color:red;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 55px;
+}
+iframe{margin-right:20px;
+  margin-left:95px;
+}
+
+d img{margin-right:10px;
+margin-left:190px;}
+
+ b img{border-radius:50px;}
+ 
+c img{border-radius:100px;}
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: Pink;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: green;
+}
+td {
+  color: purple;
+}
